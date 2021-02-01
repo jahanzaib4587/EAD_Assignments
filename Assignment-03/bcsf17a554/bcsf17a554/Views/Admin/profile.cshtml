@@ -1,0 +1,10 @@
+﻿@model bcsf17a554.Models.User
+@{ Layout = "~Views/Shared/_Layout1.cshtml"}
+<form>
+    <input asp-for="name" /><br />
+    <input asp-for="mail" /><br />
+    <input asp-for="password" type="password" /><br />
+    <input asp-for="newpassword" type="password" /><br />
+    <input asp-for="image" type="file"/><br />
+    <button asp-action="profile">Update</button><br />
+</form>

@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <nav class="navbar" nav>
+            <ul class="form-inline">
+                <li><a href="~/Admin/Index">HOME</a></li>
+                <li><a href="~/Admin/about" />ABOUT</a></li>
+                <li><a href="~/Admin/profile">PROFILE</a></li>
+                <li><a href="~/Admin/user">USER</a></li>
+                <li><a href="~/Home/login">LOGOUT</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div class="container form-inline">
+        @RenderBody()
+    </div>
+</body>
+</html>
+

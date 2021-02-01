@@ -1,0 +1,12 @@
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-5\Task-5\obj\Debug\netcoreapp3.1\Task-5.AssemblyInfoInputs.cache
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-5\Task-5\obj\Debug\netcoreapp3.1\Task-5.AssemblyInfo.cs
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-5\Task-5\obj\Debug\netcoreapp3.1\Task-5.csproj.CoreCompileInputs.cache
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-5\Task-5\bin\Debug\netcoreapp3.1\Task-5.exe
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-5\Task-5\bin\Debug\netcoreapp3.1\Task-5.deps.json
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-5\Task-5\bin\Debug\netcoreapp3.1\Task-5.runtimeconfig.json
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-5\Task-5\bin\Debug\netcoreapp3.1\Task-5.runtimeconfig.dev.json
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-5\Task-5\bin\Debug\netcoreapp3.1\Task-5.dll
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-5\Task-5\bin\Debug\netcoreapp3.1\Task-5.pdb
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-5\Task-5\obj\Debug\netcoreapp3.1\Task-5.dll
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-5\Task-5\obj\Debug\netcoreapp3.1\Task-5.pdb
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-5\Task-5\obj\Debug\netcoreapp3.1\Task-5.genruntimeconfig.cache

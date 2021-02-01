@@ -1,0 +1,11 @@
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\Assignment-02\Assignment2_EAD\obj\Debug\netcoreapp3.1\Assignment2_EAD.csprojAssemblyReference.cache
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\Assignment-02\Assignment2_EAD\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\Assignment-02\Assignment2_EAD\obj\Debug\netcoreapp3.1\Views\AdminUserView.g.cs
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\Assignment-02\Assignment2_EAD\obj\Debug\netcoreapp3.1\Views\AdminView.g.cs
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\Assignment-02\Assignment2_EAD\obj\Debug\netcoreapp3.1\Views\AllProducts.g.cs
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\Assignment-02\Assignment2_EAD\obj\Debug\netcoreapp3.1\Views\Cart.g.cs
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\Assignment-02\Assignment2_EAD\obj\Debug\netcoreapp3.1\Views\UserView.g.cs
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\Assignment-02\Assignment2_EAD\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\Assignment-02\Assignment2_EAD\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\Assignment-02\Assignment2_EAD\obj\Debug\netcoreapp3.1\Assignment2_EAD_MarkupCompile.cache
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\Assignment-02\Assignment2_EAD\obj\Debug\netcoreapp3.1\Assignment2_EAD_MarkupCompile.lref

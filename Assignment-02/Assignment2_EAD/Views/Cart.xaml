@@ -1,0 +1,61 @@
+﻿<UserControl x:Class="Assignment2_EAD.Views.Cart"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Assignment2_EAD.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label  HorizontalAlignment="Center" Content="SALE" Grid.Row="0" Grid.Column="0"  FontSize="30" FontWeight="Bold" Margin="0,0,10,56"></Label>
+        <Label  HorizontalAlignment="Center" Content="Available Items" FontWeight="Bold" Grid.Column="0" Grid.ColumnSpan="2"  FontSize="22" Margin="0,143,0,87" Width="202" Grid.RowSpan="2"/>
+        <Label  HorizontalAlignment="Left" Content="CART" Grid.Column="2" FontWeight="Bold" Grid.ColumnSpan="2"  FontSize="22" Margin="238,141,0,90" Grid.RowSpan="2" Width="131"/>
+        <Button x:Name="add" Content="Add"  Grid.Column="3"  FontSize="18" Margin="54,20,46,56"/>
+        <Button x:Name="finish" Content="Finish"  Grid.Column="3"  FontSize="18" Margin="54,66,46,10"/>
+        <Button x:Name="logOut" Content="Logout"  FontSize="18"  Margin="54,66,46,10"/>
+
+        <Label Content="ITEM ID:" Grid.Row="0" Grid.Column="1"  FontSize="18" Margin="14,4,186,62" Grid.ColumnSpan="2" ></Label>
+        <Label Content="Quantity" Grid.Column="2"  FontSize="18" Margin="16,0,20,72"   />
+
+
+
+        <TextBox Name="itemID"  Grid.Column="1" Margin="20,46,10,18" />
+        <TextBox Name="userName1" Margin="20,46,10,18"  Grid.Row="0" Grid.Column="2" />
+
+        <ListView x:Name="availaleItems" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="3" Margin="18,41,24,10">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn  Header="Product ID" Width="80"></GridViewColumn>
+                    <GridViewColumn Header="Product Name" Width="80"></GridViewColumn>
+                    <GridViewColumn Header="Price" Width="80"></GridViewColumn>
+                    <GridViewColumn Header="Quantity" Width="80"></GridViewColumn>
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ListView x:Name="CartView" Grid.Row="1" Grid.Column="2" Grid.ColumnSpan="2" Grid.RowSpan="3" Margin="20,41,24,10">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn  Header="Product ID" Width="80" ></GridViewColumn>
+                    <GridViewColumn Header="Product Name"  Width="80"></GridViewColumn>
+                    <GridViewColumn Header="Price"  Width="80"></GridViewColumn>
+                    <GridViewColumn Header="Quantity" Width="80"></GridViewColumn>
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,47 @@
+﻿<UserControl x:Class="Assignment2_EAD.Views.AdminView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Assignment2_EAD.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="0" TextAlignment="Center" Grid.ColumnSpan="3" Text="ADMIN DASHBOARD" FontWeight="Bold" FontSize="30"></TextBlock>
+        <TextBlock Grid.Row="1" Grid.Column="0" TextAlignment="Left"  Text="Add New Product" FontWeight="Bold" FontSize="20" Margin="74,0,244,0" Grid.ColumnSpan="2"></TextBlock>
+        <TextBlock Grid.Row="1" Grid.Column="2" TextAlignment="Left"  Text="Delete Product" FontWeight="Bold" FontSize="20"></TextBlock>
+        <TextBlock Grid.Row="2" Grid.Column="2" TextAlignment="Center"  Text="Enter Product ID to Delete" FontWeight="Bold" FontSize="18"></TextBlock>
+        <Label Content="Product ID:" Grid.Row="2" Grid.Column="0"  FontSize="18" Grid.ColumnSpan="2" Margin="16,0,250,0"></Label>
+        <Label Content="Product Name:" Grid.Row="3" Grid.Column="0"  FontSize="18" Grid.ColumnSpan="2" Margin="18,0,248,0"></Label>
+        <Label Content="Price:" Grid.Row="4" Grid.Column="0"  FontSize="18" Grid.ColumnSpan="2" Margin="18,5,248,45" Grid.RowSpan="2"></Label>
+        <Label Content="Quantity:" Grid.Row="5" Grid.Column="0"  FontSize="18" Grid.ColumnSpan="2" Margin="18,1,248,49" Grid.RowSpan="2"></Label>
+        <Label Content="ID:" Grid.Row="3" Grid.Column="1"  FontSize="18" Grid.ColumnSpan="2" Margin="266,0,227,0"></Label>
+        <TextBox Name="userName" Grid.Row="2" Grid.ColumnSpan="2" Margin="161,0,133,5"/>
+        <TextBox Name="productName" Grid.Row="3" Grid.ColumnSpan="2" Grid.Column="0" Margin="161,10,133,0"/>
+        <TextBox Name="price" Grid.Row="4" Grid.ColumnSpan="2" Grid.Column="0" Margin="161,10,133,0"/>
+        <TextBox Name="quantity" Grid.Row="5" Grid.ColumnSpan="2" Grid.Column="0" Margin="161,10,133,0"/>
+        <TextBox Name="idDelete" Grid.Row="3"  Grid.Column="2" Margin="45,0,26,10"/>
+        <Button x:Name="addProduct" Content="Add Product" Grid.Row="6"  Grid.Column="0" Margin="82,20,52,30" Grid.RowSpan="2" FontSize="18"></Button>
+        <Button Command="{Binding cmd2}" CommandParameter="ViewAllPrducts" x:Name="product" Content="View Products" Grid.Row="7"  Grid.Column="1" Margin="82,0,52,10" FontSize="18"/>
+        <Button Command="{Binding cmd3}" CommandParameter="LogOut" x:Name="logOut" Content="LOG OUT" Grid.Row="8"  Grid.Column="1"  FontSize="18" Margin="82,0,52,10"></Button>
+        <Button x:Name="delete" Content="Delete" Grid.Row="6"  Grid.Column="2" Margin="94,46,48,4" Grid.RowSpan="2" FontSize="18"></Button>
+
+    </Grid>
+</UserControl>

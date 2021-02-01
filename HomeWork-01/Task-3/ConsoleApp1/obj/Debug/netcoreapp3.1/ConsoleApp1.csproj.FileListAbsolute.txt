@@ -1,0 +1,13 @@
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-3\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Jahanzaib\Desktop\EAD material downloaded\HomeWork-01\Task-3\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
